@@ -1,0 +1,5 @@
+{
+  "name": "Wesecure",
+  "description": "An AI-powered tool to craft detailed prompts for website security analysis and get results instantly from Google's Gemini model. Includes history and customization.",
+  "requestFramePermissions": []
+}
